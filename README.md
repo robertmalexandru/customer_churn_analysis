@@ -11,7 +11,6 @@
 * [Interactive Dashboard](#interactive-dashboard)
 * [Key Findings](#key-findings)
 * [Recommendations](#recommendations)
-* [Conclusion](#conclusion)
 
 ## Overview
 
@@ -122,11 +121,3 @@
    - Use data segmentation to craft personalized messages that address individual churn factors (e.g., data limits, contract expiration).
    - Automate notifications and reminders to inform customers about upcoming renewals or plan optimizations.
    - Leverage predictive analytics to identify at-risk customers and initiate tailored retention campaigns proactively.
-
-## Conclusion
-
-This analysis reveals critical insights into customer churn for Databel. The key findings emphasize the importance of:
-
-1. Addressing churn drivers like competitive offers and device preferences.
-2. Focusing on high-risk groups such as seniors and low data users.
-3. Promoting long-term contracts and personalized retention strategies.

@@ -1,4 +1,4 @@
-# Customer Churn Analysis using Excel
+# Customer Churn Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-blue)
 
